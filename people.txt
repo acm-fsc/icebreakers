@@ -7,3 +7,7 @@ Favorite Food: Pizza
 Name: Carlos Duque
 EG: 2023
 Favorite Food: Burger
+
+Name: Keith Austin
+EG: 2022
+Favorite Food: Spaghetti
