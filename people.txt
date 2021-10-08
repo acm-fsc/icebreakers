@@ -6,7 +6,7 @@ Favorite Food: Pizza
 
 Name: Carlos Duque
 EG: 2023
-Favorite Food: Burguer
+Favorite Food: Burger
 
 Name: Keith Austin
 EG: 2022
